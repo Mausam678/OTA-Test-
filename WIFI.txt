@@ -1,5 +1,1 @@
-{
-	Connection:"EtherNet",
-	EtherNetMac:"29:10:20:50:58:FF",
-	SSID:[{Name:"ALT_TEST", pwd:"TEST"},{Name:"ALT_TEST", pwd:"TEST"},{Name:"ALT_TEST", pwd:"TEST"},{Name:"ALT_TEST", pwd:"TEST"}]
-}
+ALT_TEST,12345678
